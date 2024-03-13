@@ -1,4 +1,4 @@
-<h2>Mohr-Circle-Simulator
+<h2>Mohr-Circle-Simulator</h2>
 Open the google colab notebook
 <br>
 Connect it to normal runtime
