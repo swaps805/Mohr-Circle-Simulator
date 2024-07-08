@@ -10,7 +10,7 @@ This is a simulator used to plot stress and strain on a finite element. You can 
 
 ## Features
 - Interactive sliders for modifying stress components.
-- Real-time updates of the Mohr Circle representation.
+- Real-time updates of the Mohr Circle diagram.
 - Capability to include images for additional visual context.
 
 ## Preview
